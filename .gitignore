@@ -1,0 +1,84 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# STM32CubeIDE generated files
+*.launch
+*.log
+*.swp
+*.bak
+*.tmp
+*.exe
+*.bin
+*.elf
+*.hex
+*.map
+*.lst
+*.o
+*.d
+*.a
+*.lib
+*.obj
+*.srec
+*.dep
+*.out
+*.cproject
+*.mxproject
+*.project
+*.metadata
+
+# STM32CubeIDE build folders
+U545_DataModel/Debug/
+U545_DataModel/Release/
+U545_DataModel/build/
+U545_DataModel/.settings
+
