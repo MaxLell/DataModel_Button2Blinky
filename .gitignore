@@ -77,8 +77,8 @@ dkms.conf
 *.metadata
 
 # STM32CubeIDE build folders
-U545_DataModel/Debug/
-U545_DataModel/Release/
-U545_DataModel/build/
-U545_DataModel/.settings
+G431_DataModel/Debug/
+G431_DataModel/Release/
+G431_DataModel/build/
+G431_DataModel/.settings
 
